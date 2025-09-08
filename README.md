@@ -44,7 +44,7 @@ AI Interview Web App is a full-stack web app that lets users practise mock inter
    ```bash
    npm run dev
    ```
-   Then open [http://localhost:3000](http://localhost:3000) in your browser.
+   
 
 ## Project Structure
 - `app/` – Next.js pages and API routes  
@@ -54,4 +54,5 @@ AI Interview Web App is a full-stack web app that lets users practise mock inter
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first.
+
 
